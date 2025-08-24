@@ -29,6 +29,11 @@ The aim is to build predictive models, compare performance using RMSE and MAE, a
    ```bash
    !pip install prophet
 
+   3. Install Prophet in Colab:
+   ```bash
+   !pip install prophet
+
+
 
 ## Task 2 — Spam Email Detection
 
